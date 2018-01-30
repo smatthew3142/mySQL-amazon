@@ -1,0 +1,24 @@
+{
+  "name": "mysql-amazon",
+  "version": "1.0.0",
+  "description": "bamazon app",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smatthew3142/mySQL-amazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smatthew3142/mySQL-amazon/issues"
+  },
+  "homepage": "https://github.com/smatthew3142/mySQL-amazon#readme"
+}
