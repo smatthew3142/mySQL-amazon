@@ -16,10 +16,11 @@ The assignment required us to create an Amazon-like storefront that will take in
 ![Screen shot](./screenshots/Customer1.png)
 ---
  * A list of products that can be purchased appears
- * The user is then prompted to type the ID# of the item they would like to purchase
+ * The user is then prompted to type the ID# of the item they would like to purchase  
      
 ![Screen shot2](./screenshots/Customer2.png)
 ---
+ * The user is then asked how many units of the selected product they would like to purchase  
 
 ![Screen shot3](./screenshots/Customer3.png)
 ---
