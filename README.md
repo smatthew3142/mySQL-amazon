@@ -13,45 +13,32 @@ The assignment required us to create an Amazon-like storefront that will take in
 ## Bamazon Customer Actions
 ### Buying an Item
 ![Screen shot](./screenshots/Customer1.png)
-> - A list of products that can be purchased appears
-> - The user is then prompted to type the ID# of the item they would like to purchase
+**- A list of products that can be purchased appears**
+**- The user is then prompted to type the ID# of the item they would like to purchase**
      
-<img src="./screenshots/Customer1.png"
-     alt="Product list for customer" align="center"/>
-     * A list of products that can be purchased appears
-     * The user is then prompted to type the ID# of the item they would like to purchase
-     
-<img src="./screenshots/Customer2.png"
-     alt="Customer input"/>
-<img src="./screenshots/Customer3.png"
-     alt="Customer receipt"/>
+![Screen shot2](./screenshots/Customer2.png)
+
+![Screen shot3](./screenshots/Customer3.png)
+
 
 ### If an item is out of stock
-<img src="./screenshots/Customer4.png"
-     alt="Customer's requested item out of stock"/>
+![Screen shot4](./screenshots/Customer4.png)
 
 ## Bamazon Manager Actions
-<img src="./screenshots/Manager1.png"
-     alt="Manager's list of options"/>
+![Screen shotM1](./screenshots/Manager1.png)
 ### View Products for Sale
 
 ### View Low Inventory
-<img src="./screenshots/Manager2.png"
-     alt="List showing items with less than 15 units in stock"/>
+![Screen shotM2](./screenshots/Manager2.png)
 ### Add to Inventory
-<img src="./screenshots/Manager3.png"
-     alt="Manager picks which item to add more units"/>
-<img src="./screenshots/Manager4.png"
-     alt="Requested number of units are added"/>
+![Screen shotM3](./screenshots/Manager3.png)
+![Screen shotM4](./screenshots/Manager4.png)
 ### Add New Product
-<img src="./screenshots/Manager5.png"
-     alt="Manager types in a new product"/>
-<img src="./screenshots/Manager6.png"
-     alt="Select department to add item"/>
-<img src="./screenshots/Manager7.png"
-     alt="Give price and quantity information"/>
-<img src="./screenshots/Manager8.png"
-     alt="Product list updated"/>
+![Screen shotM5](./screenshots/Manager5.png)
+![Screen shotM6](./screenshots/Manager6.png)
+![Screen shotM7](./screenshots/Manager7.png)
+![Screen shotM8](./screenshots/Manager8.png)
+
 
 ## Programs Used
 - Node.js
