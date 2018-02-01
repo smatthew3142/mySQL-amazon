@@ -14,6 +14,9 @@ The assignment required us to create an Amazon-like storefront that will take in
 ### Buying an Item
 <img src="./screenshots/Customer1.png"
      alt="Product list for customer"/>
+     * A list of products that can be purchased appears
+     * The user is then prompted to type the ID# of the item they would like to purchase
+     
 <img src="./screenshots/Customer2.png"
      alt="Customer input"/>
 <img src="./screenshots/Customer3.png"
