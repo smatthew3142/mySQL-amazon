@@ -26,3 +26,27 @@ VALUES ("The Art of Star Wars: The Last Jedi", "BOOKS", 24.99, 40),
 ("Batman Logo T-Shirt", "CLOTHING", 15.99, 35),
 ("The Hobbit", "BOOKS", 10.65, 10),
 ("Astrophysics for People in a Hurry", "BOOKS", 9.95, 60);
+
+
+CREATE TABLE departmentTable(
+
+	deptID INT NOT NULL AUTO_INCREMENT,
+	dept_name VARCHAR(20) NOT NULL,
+
+	PRIMARY KEY (deptID)
+);
+
+INSERT INTO departmentTable(dept_name)
+VALUES ("BOOKS"),
+("MUSIC"),
+("KITCHEN"),
+("CLOTHING"),
+("ELECTRONICS"),
+("OUTDOOR"),
+("GAMES"),
+("BED & BATH"),
+("FOOD"),
+("PET CARE");
+
+SELECT * FROM departmentTable;
+

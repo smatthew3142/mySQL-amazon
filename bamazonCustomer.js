@@ -68,15 +68,15 @@ function start() {
 
 
     if(res[userItem].stock >= userQuantity){
-        //after purchase, updates quantity in Products
-        connection.query("UPDATE Products SET ? WHERE ?", [
+        
+        connection.query("UPDATE products SET ? WHERE ?", [
         
         {stock: (res[userItem].stock - userQuantity)},
         {id: answer.itemId}
 
         ], 
 
-        function(err, result){
+        function(err, res){
             
             if(err) throw err;
             console.log("**************");
@@ -100,7 +100,7 @@ function start() {
         console.log("NOT ENOUGH IN STOCK");
         console.log(" ");
         console.log("**************");
-        
+
         shopAgain();
       }
 
