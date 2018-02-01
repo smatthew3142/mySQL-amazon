@@ -10,11 +10,41 @@ The assignment required us to create an Amazon-like storefront that will take in
   * Run 'npm install' in Terminal or GitBash
   * Run 'node bamazonCustomer.js'or 'bamazonManager.js'
  
+## Bamazon Customer Actions
+### Buying an Item
+<img src="./screenshots/Customer1.png"
+     alt="Product list for customer"/>
+<img src="./screenshots/Customer2.png"
+     alt="Customer input"/>
+<img src="./screenshots/Customer3.png"
+     alt="Customer receipt"/>
 
-### bamazon Customer
+### If an item is out of stock
+<img src="./screenshots/Customer4.png"
+     alt="Customer's requested item out of stock"/>
 
-### bamazon Manager
- 
+## Bamazon Manager Actions
+<img src="./screenshots/Manager1.png"
+     alt="Manager's list of options"/>
+### View Products for Sale
+
+### View Low Inventory
+<img src="./screenshots/Manager2.png"
+     alt="List showing items with less than 15 units in stock"/>
+### Add to Inventory
+<img src="./screenshots/Manager3.png"
+     alt="Manager picks which item to add more units"/>
+<img src="./screenshots/Manager4.png"
+     alt="Requested number of units are added"/>
+### Add New Product
+<img src="./screenshots/Manager5.png"
+     alt="Manager types in a new product"/>
+<img src="./screenshots/Manager6.png"
+     alt="Select department to add item"/>
+<img src="./screenshots/Manager7.png"
+     alt="Give price and quantity information"/>
+<img src="./screenshots/Manager8.png"
+     alt="Product list updated"/>
 
 ## Programs Used
 - Node.js
