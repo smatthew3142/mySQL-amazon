@@ -76,7 +76,7 @@ function start() {
 
         ], 
 
-        function(err, res){
+        function(err, result){
             
             if(err) throw err;
             console.log("**************");
