@@ -12,6 +12,10 @@ The assignment required us to create an Amazon-like storefront that will take in
  
 ## Bamazon Customer Actions
 ### Buying an Item
+![Screen shot](./screenshots/Customer1.png)
+* A list of products that can be purchased appears
+* The user is then prompted to type the ID# of the item they would like to purchase
+     
 <img src="./screenshots/Customer1.png"
      alt="Product list for customer" align="center"/>
      * A list of products that can be purchased appears
