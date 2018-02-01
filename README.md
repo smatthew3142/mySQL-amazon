@@ -12,9 +12,11 @@ The assignment required us to create an Amazon-like storefront that will take in
  
 ## Bamazon Customer Actions
 ### Buying an Item
+<p align="right">
 ![Screen shot](./screenshots/Customer1.png)
 **- A list of products that can be purchased appears**
 **- The user is then prompted to type the ID# of the item they would like to purchase**
+</p>
      
 ![Screen shot2](./screenshots/Customer2.png)
 
